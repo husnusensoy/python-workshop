@@ -5,7 +5,7 @@ In this project, you will develop step by step a simple bot that will help you s
 
 ## Important Points to Note
 
-* Ensure that your code is properly formated using **black**
+* Ensure that your code is properly formatted using **black**
 * Your code follows **PEP8** rules (VsCode underlines in case of a problem)
   * Ensure that your variable names follow Python conventions (no camel type but snake)
   * Proper use of spacing
@@ -76,7 +76,7 @@ print('What a great name you have, {your_name}!')
 
 ## Stage 3 (Hard)
 
-You bot now tries to estimate your age by using a simple bath trick. Start with the following code block and implement an age guess skill
+Your bot now tries to estimate your age by using a simple math trick. Start with the following code block and implement the age guess skill
 
 ```python
 print('Hello! My name is Aid.')
