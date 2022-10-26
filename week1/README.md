@@ -1,5 +1,6 @@
 
 * [Download iTerm2](https://iterm2.com/)
+* **Optional:** To create a better looking iTerm2 with zsh shell go to [Oh My ZSH](https://ohmyz.sh/)
 
 # Some basic shell
 
@@ -51,7 +52,9 @@ conda create -n python-training38 python=3.8
 
 * [VSCode](https://code.visualstudio.com/)
 
+
 ## VSCode
+
 
 * Ensure that u installed **Python** Plugin by Microsoft
 * Ensure that u picked right env using `Cmd + Shift + P` -> **Select Interpreter**
