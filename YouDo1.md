@@ -10,7 +10,7 @@ In this project, you will develop step by step a simple bot that will help you s
   * Ensure that your variable names follow Python conventions (no camel type but snake)
   * Proper use of spacing
 
-## Stage 1 (Medium)
+## Stage 1 (Medium)
 
 Give a name to your bot (bot_name) and a birth_year (which is set to be 2020 ). Start with the following code block. 
 
@@ -57,7 +57,7 @@ What a great name you have, Jack!
 
 ```
 
-### Hints
+### Hints
 
 Please do start with the following Python code
 
@@ -74,7 +74,7 @@ print('What a great name you have, {your_name}!')
 
 * Remeber that `ìnput('prompt')`function is used to read user input string
 
-## Stage 3  (Hard)
+## Stage 3 (Hard)
 
 You bot now tries to estimate your age by using a simple bath trick. Start with the following code block and implement an age guess skill
 
@@ -94,8 +94,7 @@ print('Enter remainders of dividing your age by 3, 5 and 7.')
 print("Your age is {your_age}; that's a good time to start programming!")
 ```
 
-
-### Hints
+### Hints
 
 Note that we have the following identity for ages in [0,104] range
 
