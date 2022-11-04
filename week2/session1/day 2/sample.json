@@ -1,0 +1,22 @@
+{
+    "names": [
+        "Jack",
+        "Joe",
+        "William"
+    ],
+    "weapons": {
+        "knifes": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "guns": [
+            1,
+            2,
+            3,
+            3
+        ],
+        "is_lethal": true
+    }
+}
