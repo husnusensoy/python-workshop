@@ -29,4 +29,5 @@ b_arithm = 1 <= 2  # lte
 b_arithm = 1 >= 2  # gte
 
 
+print(1 < 2 and 2<= 3)
 print(1 < 2 <= 3)
