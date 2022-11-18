@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Husnu",
+        "surname": "Sensoy",
+        "age": 39,
+        "city": "İstanbul",
+        "is_admin": true,
+        "instruments": ["Guitar"]
+    },
+    {
+        "name": "Kerem",
+        "surname":"Kargın",
+        "age": 25,
+        "city": "İstanbul",
+        "instruments":["Keyboard"]
+    },
+    {
+        "name": "İnanç",
+        "age": 28,
+        "city": "İzmir",
+        "surname": "Dokurel",
+        "is_admin": false,
+        "chorus": ["Robert Collage"]
+    }
+]

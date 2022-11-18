@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Husnu Sensoy",
+        "age": 39,
+        "city": "İstanbul",
+        "is_admin": true
+    },
+    {
+        "name": "Kerem Kargın",
+        "age": 25,
+        "city": "İstanbul"
+    },
+    {
+        "name": "İnanç Dokurel",
+        "age": 28,
+        "city": "İzmir",
+        "is_admin": false
+    }
+]

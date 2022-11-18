@@ -1,0 +1,14 @@
+{
+    "apples": {
+        "June": 3,
+        "Robert": 2,
+        "Lilly": 0,
+        "David": 1
+    },
+    "oranges": {
+        "June": 0,
+        "Robert": 3,
+        "Lilly": 7,
+        "David": 2
+    }
+}

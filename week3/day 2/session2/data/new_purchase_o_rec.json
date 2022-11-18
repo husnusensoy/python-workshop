@@ -1,0 +1,18 @@
+[
+    {
+        "apples": 3,
+        "oranges": 0
+    },
+    {
+        "apples": 2,
+        "oranges": 3
+    },
+    {
+        "apples": 0,
+        "oranges": 7
+    },
+    {
+        "apples": 1,
+        "oranges": 2
+    }
+]
