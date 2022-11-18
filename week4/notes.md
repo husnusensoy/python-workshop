@@ -1,0 +1,4 @@
+- [x] Google Big Query Session: https://github.com/husnusensoy/py-bq/blob/main/bq.py
+- [ ] Google Sheet Integration: https://towardsdatascience.com/turn-google-sheets-into-your-own-database-with-python-4aa0b4360ce7
+- [ ] FastAPI: https://fastapi.tiangolo.com/tutorial/first-steps/
+- [ ] requests: https://requests.readthedocs.io/en/latest/

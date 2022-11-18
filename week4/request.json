@@ -1,0 +1,14 @@
+[{
+        "name": "Coffee Glass",
+        "price": 100,
+        "description": "Coffe Glass from Starbucks",
+        "tax": 18
+    },
+    {
+        "name": "Roller pen",
+        "price": 15,
+        "description": "Roller pen from PIGRA",
+        "tax": 1.2
+    }
+
+]
