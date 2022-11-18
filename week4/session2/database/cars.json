@@ -1,0 +1,23 @@
+{
+    "Tesla:X": {
+        "brand": "Tesla",
+        "model": "X",
+        "year": 2022,
+        "door_count": 4,
+        "price": -1.0
+    },
+    "Tesla:S": {
+        "brand": "Tesla",
+        "model": "S",
+        "year": 2020,
+        "door_count": 4,
+        "price": -1.0
+    },
+    "Mercedes:E200": {
+        "brand": "Mercedes",
+        "model": "E200",
+        "year": 2021,
+        "door_count": 4,
+        "price": -1.0
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "python-workshop-369005",
+  "private_key_id": "a89d082a12b6b73e5771fce8550e35e4e10a34dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDs57EO50IBp7Rr\nhISpRnPr3p2iq8vVNyxcdhENv7uGM1CkIlvhibj1oqF44uBsbsoGY40PmriGrHD8\n43Jx5RNEL/Usl0hGLpalx2shfrX3rwbnHSRz64E37d1AsXXO8ou9r2dvyBMDXaUf\njq/ykdznkABXe/EY6cMet1Io6YvlQggg6u/4kpxoevvGxJ5U1VbrkptZyYn3AD7V\n+WviabHMjFImJJ2H/7F1+L2lAF1lrG23IAe7c/p/fNwSvtmnJm7LS4i5OJvqI5KU\nkhCVSHepMyuJWi/8f2R3RNN55vqXe9BEgrpS2zKyEr7t634OxIjDtMJRoTF8F3dX\n65jigp+PAgMBAAECggEAJJ1+EwNw2GhPAovQTzNpk5aW1D9rjnrruydaZRQcYSu0\nNodtnl3BaGGoRagB2hsuKVpLQT1UxifdLLuLWDQjdqys3vqg0Ta+fO/l9x7U9BZU\nDEtySLepA00bHwvD3WZFF95bhSjYsMf7+fUn7OdYy7IeLhH6G7N26gaZHGQAWxXo\nozbp23GlookT6iPBVJGW0pPsdhFZcbUnolvg+EIOQQ/3BqqF/0nDIw44soXxCEoN\n3bDCEL51GajDG6bIdYLUhuyBYhTg1KxGWQRr6OkCJCBBsZvTyzE6X0neOe2EY3f8\nn650LMf29TXMd2UUxmhUSJkBpirO/wEHn11j4+TBeQKBgQD2c4aw9LOzcIlzk7i+\nP7A8rX48kt9csV/qy+A8tRLtKu5JBj0gJXnRx4C0rF+2oyiYYofjHLBVMsIiXCko\nvTzAA3nXzzSlkRwppfIfRKAFhhOj215AYjrsAB62cIVOoELrkJAJgLzWUquDpO4X\nH8qPsj79acA6UjP+QBGgWXoM1wKBgQD2FXq6uFlbv3ocjt14ObNxEdyKOxsz+OSu\nLV4GfMkjluiPltg0HgzjD2WC9d+ZFdB9AGro2SIHjUo54tDyQm0WXtLTKFeE1JA6\nTJw82W2JPxhbW4DcRaWYXl/uNb0nbFN/93svI/WRR0cB7z4FsrEzilgydCxehCCL\nGVnG5je0CQKBgQDWpw6EZ81wl68QPHSnN5+PaejOZ3omKNOLFKGtHmVqrn62mbl5\nm0p8HZCLTKtczsUX3JHQjPdEbZ5LAQxUUGZuM1jXT8DiB/6Ig+HbvBDIXtwSVonD\n+Aqr7PrTGjPxpIJE3DeoHznaTkzWrzs0Ztstxyk33Pixk1F3vGPdzrEQJwKBgQDN\n7tOyBivhd698zqHPxpm/+a6Rjz0IlTTp/dU9oJfCTLt5zkZH9w3ZxjyxB4mC1pqO\nwRa2nV646yg+oO0yjxwzKE9Nnej/o9K+tvXYhiwAOujrKvv/WdlmVTP6aMZOg3yt\nDjHsFS+f0AJAQDGrGwrnktKUBlxLDE8fmKtko6vh4QKBgQCYmUBMCQ5XZkRGSwVa\nKbgmuyXHeR6ZDm2FCc8j9eti9US4bCssHk4ucpbbjcwFWPTW1Z0GRnFlvlfquBvn\nhXTsOuPdqu83IOLHlsgVjN7jul3hFKx8/HB32KMut+fstakK1WO0N1/kfKyMSJ72\nOTjdNOdQcHDvqK5gxXzNVryBcw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-analyst@python-workshop-369005.iam.gserviceaccount.com",
+  "client_id": "101934857904127761884",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-analyst%40python-workshop-369005.iam.gserviceaccount.com"
+}
