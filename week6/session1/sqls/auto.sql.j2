@@ -1,0 +1,18 @@
+{% if order_by_metric -%}
+SELECT 'X' as dummy
+{% for met in metrics %}
+{% for col in cols %}
+, {{ met|upper }}({{ col|lower }}) as {{ met|lower }}__{{ col|lower }}
+{% endfor %}
+{% endfor %}
+{% else %}
+
+SELECT 'X' as dummy
+{% for col in cols -%}
+{% for met in metrics %}
+, {{ met|upper }}({{ col|lower }}) as {{ met|lower }}__{{ col|lower }}
+{% endfor %}
+{% endfor %}
+
+{% endif %}
+FROM {{ schema }}.{{ table }}

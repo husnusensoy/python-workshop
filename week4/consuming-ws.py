@@ -2,7 +2,7 @@ from typing import List
 
 import pandas as pd
 import requests as r
-
+# import urllib
 
 def get_all_months_from_ws() -> pd.DataFrame:
     all_summaries = r.get("http://127.0.0.1:8000/summary")

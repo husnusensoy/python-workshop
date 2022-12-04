@@ -1,0 +1,6 @@
+{# I am a jinja commet #}
+
+{% for s in students %}
+    {% if s.score > 80 %}{{ s.name }}{% else %}{{s.surname}}{% endif %}
+{% endfor %}
+

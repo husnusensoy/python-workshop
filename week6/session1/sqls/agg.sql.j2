@@ -1,0 +1,15 @@
+{% if keycol == None %}
+SELECT AVG({{ column|lower }}) as mean_{{ column|lower }}
+      , MIN({{ column|lower }}) as min_{{ column|lower }}
+      , MAX({{ column|lower }}) as max_{{ column|lower }}
+      , COUNT({{ column|lower }}) as nonempty_count_{{ column|lower }}            
+FROM {{ schema }}.{{ table }}
+{% else %}
+SELECT {{ keycol|lower }}
+      , AVG({{ column|lower }}) as mean_{{ column|lower }}
+      , MIN({{ column|lower }}) as min_{{ column|lower }}
+      , MAX({{ column|lower }}) as max_{{ column|lower }}
+      , COUNT({{ column|lower }}) as nonempty_count_{{ column|lower }}            
+FROM {{ schema }}.{{ table }} 
+GROUP BY {{ keycol|lower }}
+{% endif %}

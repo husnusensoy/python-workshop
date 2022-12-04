@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "python-workshop-369005",
+  "private_key_id": "76946b8c739d478bf43fadb1e1185e9ec0ff84a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrQ3pVNtpeCVSg\nE3ZsoTlhVJkq54C9F+dQYgN17Cjd2O4G3Dw9AORVYDXpP5PTCcHF6ASNzXsvlKoM\nxSH6Lyyx24fJROuuBatnHTmGcgV7L41NDZt+BeIzNNjgLGgp/qco7S+OS1S1m7Rn\n6vuGXBJ2CPjRCwOBBbXkrKCnDcJHp0sXDYonzEa07Ui4DRZlt0KsXmptj3QWTB9r\nCWJEqhGjhlKZBwcJZ9zxwiPovKWAGnUxC25jEedy3ZSBimSkyN1G5H5G4LJTWbP9\no5wx0BT8i6LpxdYB2YHbqOHd7kfik78AIUv6JlL++o3GeYLO6Zl2r1Lei2rElqYR\n5/emNTwhAgMBAAECggEAGaMbxHbWIH6QEvhm4WMPFmFWHmSSUnwqDc/mSbhE89S9\n6Pv97nncNGWXHGf+hnhu7+PIDrwkRR6hiBDYgb2fGK7OuFPfXekOW/y1eElIRcT8\nB31Sef6CenzePEyZeTPcLRW4aTogn6ED1AyKg3Xz84RrTsuxxhYnQOiQkgFOxG/p\najU6t2axaAhgPiHVI66A6l7OOxIdDbvB6Pr7eXDfSIF/xt4jzl4IViiLH4gWZmQV\nZJ3S0Yo+FcvmGUHuKviM0qHsysRzaOhCR3FORItWYF7mya7ClmSoHfZ6Y3qZTgYl\nzy/LfhzPJU9qWohJqsZ3TgMDFaWk/FZ8jC+Lzu7h6wKBgQDWbDqEBDFw1Oz5xRy8\nQr1Cpn4ANVYc8dYEkI9S+6LJ43ONKltnOCYWtoBhStebvZEPyZhzIshdnwsTnIuU\nHa8i912+z0dwMdxqliuGfXcQO/ine93fy5tmDtttQBQu/KMKHSNBp0sPu2wuwIlY\nXbqRt/w30lx9ybN8oVwQjiBEfwKBgQDMeNzWZVN/hb78mDTUevNN576ouBqmaI9S\nTEps5riw3LENkvGk8d2/s+8ZPEhhsutpo6S7d3m7TTODMyXJ46bng7wm+qA1N75c\njWHVcArreWuWn8V74H1f2fBLqZTtKR8sE91W2SGAm+JneqsMoKVn5AGpHWmpMzaJ\naSIaThevXwKBgQCFxSOEdPE7STtGX7iboq9cQ25cRuogSKeSVXV0+dQHS8UtDn3T\nmW35wYW6LOzyFoPHa6eWPN7vuWc5pvJVR2eZ0uVDQyF4V0MBpAonb2K2WBO6uUYk\ndmvOcfpm4BE3dxloF+GE9g+YEv9c83U8Ec1xV20cjjpxp0I4wJolIeXzlQKBgQCU\ntl7fq8hj2jGC42yhEV89zQwVB/mSCEAc+hGzTMcNEyXOmo4XijXehI6kivyV2hxv\ns65PDmFCAa8ygBO+10z/2wcQTn4Q1p8kD0wVgSzgAGponYFzTF3DRe4ICamgJ6Vd\nWIFF9hvwvu+WlVgskfZbLjCrABJmFjJXFFjSSvPc/wKBgB+0tX+siKFd2EdehprL\n4WPLYzSWXF/vqZvixDXyHqECRy6HQKs3+xYH7D6O/jNTk98xbn0g4TOXVWcDqubw\nQ2B6qdSE3n4Tge+pr6LFfSD8ijKBQZlMaPj4CdCp+q+uDhX//w7CF5M889oDTXmi\nsPq4TWiOPUoqeEu3+IAuzOvG\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheets-writer@python-workshop-369005.iam.gserviceaccount.com",
+  "client_id": "104683216993966590969",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheets-writer%40python-workshop-369005.iam.gserviceaccount.com"
+}

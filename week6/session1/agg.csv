@@ -1,0 +1,2 @@
+avg__sales_quantity,avg__sales_dollar_amount,min__sales_quantity,min__sales_dollar_amount,max__sales_quantity,max__sales_dollar_amount,count__sales_quantity,count__sales_dollar_amount,approximate_median__sales_quantity,approximate_median__sales_dollar_amount
+5.4992126,272.7781506,1,-600,10,600,5000000,5000000,6.0,295.0

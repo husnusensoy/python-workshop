@@ -1,0 +1,13 @@
+
+{% for stu in students %}
+Hello {{ stu.name }}
+{% if stu.score > 80 %}
+I'm happy to inform you did very well today's {{ test_name }}.
+{% else %}
+I'm sorry to inform you did not do so well today's {{ test_name }}.
+{% endif %}
+You reached {{ stu.score }} out of {{ max_score }} points
+{% endfor %}
+
+Regards,
+Husnu Sensoy
