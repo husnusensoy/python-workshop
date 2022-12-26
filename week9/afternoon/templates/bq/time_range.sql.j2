@@ -1,0 +1,13 @@
+select
+    min(date_time) min_time,
+    max(date_time) max_time
+from
+    (
+        {% for m in months %}
+            select date_time from `python-workshop-369005.traffic.{{ m }}`
+            {% if not loop.last %}
+            UNION ALL 
+            {% endif %}
+        {% endfor%}
+    
+    ) foo

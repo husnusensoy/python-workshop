@@ -1,0 +1,6 @@
+create table if not exists {{ schema }}.{{ table }}(
+    measure_time timestamp
+    {%- for m in metrics%}
+    , {{ m }} float not null
+    {%- endfor %}
+)

@@ -1,0 +1,34 @@
+select
+    resolution,
+    hour,
+    avg(num_vehicles) as num_vehicles,
+    avg(average_speed) as avg_speed
+from
+    (
+        select
+            date(datetime(date_time)) day,
+            extract(
+                HOUR
+                from
+                    datetime(date_time)
+            ) hour,
+            left(geohash, {{ prefix }}) resolution,
+            sum(NUMBER_OF_VEHICLES) num_vehicles,
+            sum(AVERAGE_SPEED * NUMBER_OF_VEHICLES) / sum(NUMBER_OF_VEHICLES) as average_speed
+        from
+            (
+        {% for m in months %}
+            select geohash, date_time, NUMBER_OF_VEHICLES, AVERAGE_SPEED from `python-workshop-369005.traffic.{{ m }}`
+            {% if not loop.last %}
+            UNION ALL 
+            {% endif %}
+        {% endfor%}
+    ) foo
+        group by
+            1,
+            2,
+            3
+    )
+group by
+    1,
+    2

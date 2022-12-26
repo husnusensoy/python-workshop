@@ -1,0 +1,6 @@
+COPY {{ schema }}.{{ table}} (
+    {{ metrics|join('\n,') }} 
+    , time filler timestamptz
+    , measure_time as time at time zone 'Europe/Istanbul'
+)
+FROM  STDIN PARSER FJSONPARSER()  REJECTMAX 1 NO COMMIT;
